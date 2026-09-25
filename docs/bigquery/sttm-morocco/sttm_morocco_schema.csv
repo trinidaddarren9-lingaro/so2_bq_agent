@@ -1,0 +1,483 @@
+table_path,column_name,type,mode,description,is_nullable,null_count,total_rows,null_percent
+dev-amea-analyt-sorsa-svc-38.dev_amea_p_ds_product_specific.v_manual_poi_ma,bq_ingest_date,TIMESTAMP,NULLABLE,,True,0,18514,0.0
+dev-amea-analyt-sorsa-svc-38.dev_amea_p_ds_product_specific.v_manual_poi_ma,file_name,STRING,NULLABLE,,True,0,18514,0.0
+dev-amea-analyt-sorsa-svc-38.dev_amea_p_ds_product_specific.v_manual_poi_ma,uuid,STRING,NULLABLE,,True,0,18514,0.0
+dev-amea-analyt-sorsa-svc-38.dev_amea_p_ds_product_specific.v_manual_poi_ma,city_name,STRING,NULLABLE,,True,10854,18514,58.63
+dev-amea-analyt-sorsa-svc-38.dev_amea_p_ds_product_specific.v_manual_poi_ma,country_code_nk,STRING,NULLABLE,,True,0,18514,0.0
+dev-amea-analyt-sorsa-svc-38.dev_amea_p_ds_product_specific.v_manual_poi_ma,country_name,STRING,NULLABLE,,True,0,18514,0.0
+dev-amea-analyt-sorsa-svc-38.dev_amea_p_ds_product_specific.v_manual_poi_ma,main_category_name,STRING,NULLABLE,,True,0,18514,0.0
+dev-amea-analyt-sorsa-svc-38.dev_amea_p_ds_product_specific.v_manual_poi_ma,phone_number,STRING,NULLABLE,,True,16935,18514,91.47
+dev-amea-analyt-sorsa-svc-38.dev_amea_p_ds_product_specific.v_manual_poi_ma,place_attributes,STRING,NULLABLE,,True,0,18514,0.0
+dev-amea-analyt-sorsa-svc-38.dev_amea_p_ds_product_specific.v_manual_poi_ma,source_system_code_nk,STRING,NULLABLE,,True,0,18514,0.0
+dev-amea-analyt-sorsa-svc-38.dev_amea_p_ds_product_specific.v_manual_poi_ma,store_address_1,STRING,NULLABLE,,True,13944,18514,75.32
+dev-amea-analyt-sorsa-svc-38.dev_amea_p_ds_product_specific.v_manual_poi_ma,store_address_2,STRING,NULLABLE,,True,17096,18514,92.34
+dev-amea-analyt-sorsa-svc-38.dev_amea_p_ds_product_specific.v_manual_poi_ma,store_name,STRING,NULLABLE,,True,3726,18514,20.13
+dev-amea-analyt-sorsa-svc-38.dev_amea_p_ds_product_specific.v_manual_poi_ma,sub_categ_name,STRING,NULLABLE,,True,0,18514,0.0
+dev-amea-analyt-sorsa-svc-38.dev_amea_p_ds_product_specific.v_manual_poi_ma,zip_code,STRING,NULLABLE,,True,11780,18514,63.63
+dev-amea-analyt-sorsa-svc-38.dev_amea_p_ds_product_specific.v_manual_poi_ma,bq_insert_timestamp,TIMESTAMP,NULLABLE,,True,0,18514,0.0
+dev-amea-analyt-sorsa-svc-38.dev_amea_p_ds_product_specific.v_manual_poi_ma,bq_update_timestamp,TIMESTAMP,NULLABLE,,True,0,18514,0.0
+dev-amea-analyt-sorsa-svc-38.dev_amea_p_ds_product_specific.v_manual_poi_ma,bq_job_name,STRING,NULLABLE,,True,0,18514,0.0
+dev-amea-analyt-sorsa-svc-38.dev_amea_p_ds_product_specific.v_manual_poi_ma,bq_updated_by,INTEGER,NULLABLE,,True,0,18514,0.0
+dev-amea-analyt-sorsa-svc-38.dev_amea_p_ds_product_specific.v_manual_poi_ma,bq_inserted_by,INTEGER,NULLABLE,,True,0,18514,0.0
+dev-amea-analyt-sorsa-svc-38.dev_amea_p_ds_product_specific.v_manual_poi_ma,source_system,STRING,NULLABLE,,True,0,18514,0.0
+dev-amea-analyt-sorsa-svc-38.dev_amea_p_ds_product_specific.v_manual_poi_ma,store_latitude,FLOAT,NULLABLE,,True,0,18514,0.0
+dev-amea-analyt-sorsa-svc-38.dev_amea_p_ds_product_specific.v_manual_poi_ma,store_longitude,FLOAT,NULLABLE,,True,0,18514,0.0
+dev-amea-analyt-sorsa-svc-38.dev_amea_p_ds_product_specific.v_manual_poi_ma,poi_sk,STRING,NULLABLE,,True,0,18514,0.0
+prd-amea-analyt-diso-svc-7f.amea_ds_distributor_sellout.v_dim_store,country_sk,INTEGER,NULLABLE,,True,0,43324,0.0
+prd-amea-analyt-diso-svc-7f.amea_ds_distributor_sellout.v_dim_store,area_description,STRING,NULLABLE,,True,0,43324,0.0
+prd-amea-analyt-diso-svc-7f.amea_ds_distributor_sellout.v_dim_store,channel_code_nk,STRING,NULLABLE,,True,0,43324,0.0
+prd-amea-analyt-diso-svc-7f.amea_ds_distributor_sellout.v_dim_store,channel_name,STRING,NULLABLE,,True,0,43324,0.0
+prd-amea-analyt-diso-svc-7f.amea_ds_distributor_sellout.v_dim_store,country_cd_nk,STRING,NULLABLE,,True,0,43324,0.0
+prd-amea-analyt-diso-svc-7f.amea_ds_distributor_sellout.v_dim_store,retailer_store_nk,STRING,NULLABLE,,True,0,43324,0.0
+prd-amea-analyt-diso-svc-7f.amea_ds_distributor_sellout.v_dim_store,source_store_nk,STRING,NULLABLE,,True,0,43324,0.0
+prd-amea-analyt-diso-svc-7f.amea_ds_distributor_sellout.v_dim_store,source_system_nk,STRING,NULLABLE,,True,0,43324,0.0
+prd-amea-analyt-diso-svc-7f.amea_ds_distributor_sellout.v_dim_store,store_code_nk,STRING,NULLABLE,,True,0,43324,0.0
+prd-amea-analyt-diso-svc-7f.amea_ds_distributor_sellout.v_dim_store,store_country,STRING,NULLABLE,,True,0,43324,0.0
+prd-amea-analyt-diso-svc-7f.amea_ds_distributor_sellout.v_dim_store,store_latitude,FLOAT,NULLABLE,,True,0,43324,0.0
+prd-amea-analyt-diso-svc-7f.amea_ds_distributor_sellout.v_dim_store,store_longitude,FLOAT,NULLABLE,,True,0,43324,0.0
+prd-amea-analyt-diso-svc-7f.amea_ds_distributor_sellout.v_dim_store,store_sk,INTEGER,NULLABLE,,True,0,43324,0.0
+prd-amea-analyt-diso-svc-7f.amea_ds_distributor_sellout.v_dim_store,distributor_nk,STRING,NULLABLE,,True,0,43324,0.0
+prd-amea-analyt-diso-svc-7f.amea_ds_distributor_sellout.v_dim_store,source_system_sk,INTEGER,NULLABLE,,True,0,43324,0.0
+prd-amea-analyt-diso-svc-7f.amea_ds_distributor_sellout.v_dim_store,bq_insert_timestamp,TIMESTAMP,NULLABLE,,True,0,43324,0.0
+prd-amea-analyt-diso-svc-7f.amea_ds_distributor_sellout.v_dim_store,route_code,STRING,NULLABLE,,True,0,43324,0.0
+prd-amea-analyt-diso-svc-7f.amea_ds_distributor_sellout.v_dim_store,bq_update_timestamp,TIMESTAMP,NULLABLE,,True,0,43324,0.0
+prd-amea-analyt-diso-svc-7f.amea_ds_distributor_sellout.v_dim_store,bq_job_name,STRING,NULLABLE,,True,0,43324,0.0
+prd-amea-analyt-diso-svc-7f.amea_ds_distributor_sellout.v_dim_store,bq_updated_by,INTEGER,NULLABLE,,True,0,43324,0.0
+prd-amea-analyt-diso-svc-7f.amea_ds_distributor_sellout.v_dim_store,bq_inserted_by,INTEGER,NULLABLE,,True,0,43324,0.0
+prd-amea-analyt-diso-svc-7f.amea_ds_distributor_sellout.v_dim_product,product_sk,INTEGER,NULLABLE,,True,0,1082,0.0
+prd-amea-analyt-diso-svc-7f.amea_ds_distributor_sellout.v_dim_product,source_system_code_nk,STRING,NULLABLE,,True,0,1082,0.0
+prd-amea-analyt-diso-svc-7f.amea_ds_distributor_sellout.v_dim_product,productname,STRING,NULLABLE,,True,337,1082,31.15
+prd-amea-analyt-diso-svc-7f.amea_ds_distributor_sellout.v_dim_product,sub_brand_name,STRING,NULLABLE,,True,388,1082,35.86
+prd-amea-analyt-diso-svc-7f.amea_ds_distributor_sellout.v_dim_product,productflavorcat,STRING,NULLABLE,,True,388,1082,35.86
+prd-amea-analyt-diso-svc-7f.amea_ds_distributor_sellout.v_dim_product,bq_insert_timestamp,STRING,NULLABLE,,True,0,1082,0.0
+prd-amea-analyt-diso-svc-7f.amea_ds_distributor_sellout.v_dim_product,bq_job_name,STRING,NULLABLE,,True,0,1082,0.0
+prd-amea-analyt-diso-svc-7f.amea_ds_distributor_sellout.v_dim_product,bq_inserted_by,INTEGER,NULLABLE,,True,0,1082,0.0
+prd-amea-analyt-diso-svc-7f.amea_ds_distributor_sellout.v_dim_product,brand_code_nk,STRING,NULLABLE,,True,388,1082,35.86
+prd-amea-analyt-diso-svc-7f.amea_ds_distributor_sellout.v_dim_product,brand_name,STRING,NULLABLE,,True,388,1082,35.86
+prd-amea-analyt-diso-svc-7f.amea_ds_distributor_sellout.v_dim_product,categ_code_nk,STRING,NULLABLE,,True,388,1082,35.86
+prd-amea-analyt-diso-svc-7f.amea_ds_distributor_sellout.v_dim_product,categ_name,STRING,NULLABLE,,True,388,1082,35.86
+prd-amea-analyt-diso-svc-7f.amea_ds_distributor_sellout.v_dim_product,country_code_nk,STRING,NULLABLE,,True,0,1082,0.0
+prd-amea-analyt-diso-svc-7f.amea_ds_distributor_sellout.v_dim_product,retailer_prod_nk,STRING,NULLABLE,,True,1,1082,0.09
+prd-amea-analyt-diso-svc-7f.amea_ds_distributor_sellout.v_dim_product,retailer_product_name,STRING,NULLABLE,,True,388,1082,35.86
+prd-amea-analyt-diso-svc-7f.amea_ds_distributor_sellout.v_dim_product,source_distributor_code_nk,STRING,NULLABLE,,True,1,1082,0.09
+prd-amea-analyt-diso-svc-7f.amea_ds_distributor_sellout.v_dim_product,product_nk,STRING,NULLABLE,,True,0,1082,0.0
+prd-amea-analyt-diso-svc-7f.amea_ds_distributor_sellout.v_dim_product,source_system_sk,NUMERIC,NULLABLE,,True,0,1082,0.0
+prd-amea-analyt-diso-svc-7f.amea_ds_distributor_sellout.v_dim_product,bq_update_timestamp,TIMESTAMP,NULLABLE,,True,0,1082,0.0
+prd-amea-analyt-diso-svc-7f.amea_ds_distributor_sellout.v_dim_product,bq_updated_by,INTEGER,NULLABLE,,True,0,1082,0.0
+prd-amea-analyt-sopr-svc-7f.amea_ds_store_operations.v_dim_sales_personnel_profile,sales_system_user_sk,INTEGER,NULLABLE,,True,0,915186,0.0
+prd-amea-analyt-sopr-svc-7f.amea_ds_store_operations.v_dim_sales_personnel_profile,field_sales_hierarchy_level_1_sk,INTEGER,NULLABLE,,True,0,915186,0.0
+prd-amea-analyt-sopr-svc-7f.amea_ds_store_operations.v_dim_sales_personnel_profile,source_system_sk,INTEGER,NULLABLE,,True,0,915186,0.0
+prd-amea-analyt-sopr-svc-7f.amea_ds_store_operations.v_dim_sales_personnel_profile,country_sk,INTEGER,NULLABLE,,True,0,915186,0.0
+prd-amea-analyt-sopr-svc-7f.amea_ds_store_operations.v_dim_sales_personnel_profile,sales_system_user_code_nk,STRING,NULLABLE,,True,28,915186,0.0
+prd-amea-analyt-sopr-svc-7f.amea_ds_store_operations.v_dim_sales_personnel_profile,sales_personnel_code_nk,STRING,NULLABLE,,True,1823,915186,0.2
+prd-amea-analyt-sopr-svc-7f.amea_ds_store_operations.v_dim_sales_personnel_profile,country_code_nk,STRING,NULLABLE,,True,0,915186,0.0
+prd-amea-analyt-sopr-svc-7f.amea_ds_store_operations.v_dim_sales_personnel_profile,source_system_code_nk,STRING,NULLABLE,,True,0,915186,0.0
+prd-amea-analyt-sopr-svc-7f.amea_ds_store_operations.v_dim_sales_personnel_profile,sales_personnel_name,STRING,NULLABLE,,True,846574,915186,92.5
+prd-amea-analyt-sopr-svc-7f.amea_ds_store_operations.v_dim_sales_personnel_profile,region_name,STRING,NULLABLE,,True,853336,915186,93.24
+prd-amea-analyt-sopr-svc-7f.amea_ds_store_operations.v_dim_sales_personnel_profile,bq_insert_timestamp,TIMESTAMP,NULLABLE,,True,0,915186,0.0
+prd-amea-analyt-sopr-svc-7f.amea_ds_store_operations.v_dim_sales_personnel_profile,bq_update_timestamp,TIMESTAMP,NULLABLE,,True,0,915186,0.0
+prd-amea-analyt-sopr-svc-7f.amea_ds_store_operations.v_dim_sales_personnel_profile,bq_job_name,STRING,NULLABLE,,True,0,915186,0.0
+prd-amea-analyt-sopr-svc-7f.amea_ds_store_operations.v_dim_sales_personnel_profile,bq_updated_by,INTEGER,NULLABLE,,True,0,915186,0.0
+prd-amea-analyt-sopr-svc-7f.amea_ds_store_operations.v_dim_sales_personnel_profile,bq_inserted_by,INTEGER,NULLABLE,,True,0,915186,0.0
+prd-amea-analyt-sopr-svc-7f.amea_ds_store_operations.v_dim_sales_personnel_profile,supervisor_id,STRING,NULLABLE,,True,848790,915186,92.75
+prd-amea-analyt-sopr-svc-7f.amea_ds_store_operations.v_dim_sales_personnel_profile,supervisor_1_name,STRING,NULLABLE,,True,848914,915186,92.76
+prd-amea-analyt-diso-svc-7f.amea_ds_distributor_sellout.v_fct_distributor_invoice_line_item,business_territory_area,STRING,NULLABLE,,True,805417,16159112,4.98
+prd-amea-analyt-diso-svc-7f.amea_ds_distributor_sellout.v_fct_distributor_invoice_line_item,business_territory_region,STRING,NULLABLE,,True,805417,16159112,4.98
+prd-amea-analyt-diso-svc-7f.amea_ds_distributor_sellout.v_fct_distributor_invoice_line_item,categ_name,STRING,NULLABLE,,True,805417,16159112,4.98
+prd-amea-analyt-diso-svc-7f.amea_ds_distributor_sellout.v_fct_distributor_invoice_line_item,country_code_nk,STRING,NULLABLE,,True,0,16159112,0.0
+prd-amea-analyt-diso-svc-7f.amea_ds_distributor_sellout.v_fct_distributor_invoice_line_item,country_sk,NUMERIC,NULLABLE,,True,0,16159112,0.0
+prd-amea-analyt-diso-svc-7f.amea_ds_distributor_sellout.v_fct_distributor_invoice_line_item,customer_name,STRING,NULLABLE,,True,13732798,16159112,84.98
+prd-amea-analyt-diso-svc-7f.amea_ds_distributor_sellout.v_fct_distributor_invoice_line_item,customer_type,STRING,NULLABLE,,True,818087,16159112,5.06
+prd-amea-analyt-diso-svc-7f.amea_ds_distributor_sellout.v_fct_distributor_invoice_line_item,distributor_invoice_code_nk,STRING,NULLABLE,,True,0,16159112,0.0
+prd-amea-analyt-diso-svc-7f.amea_ds_distributor_sellout.v_fct_distributor_invoice_line_item,distributor_invoice_date_code_nk,DATE,NULLABLE,,True,0,16159112,0.0
+prd-amea-analyt-diso-svc-7f.amea_ds_distributor_sellout.v_fct_distributor_invoice_line_item,distributor_invoice_document_number,STRING,NULLABLE,,True,805417,16159112,4.98
+prd-amea-analyt-diso-svc-7f.amea_ds_distributor_sellout.v_fct_distributor_invoice_line_item,distributor_invoice_file_type,STRING,NULLABLE,,True,805417,16159112,4.98
+prd-amea-analyt-diso-svc-7f.amea_ds_distributor_sellout.v_fct_distributor_invoice_line_item,distributor_invoice_gross_sales_amt,FLOAT,NULLABLE,,True,0,16159112,0.0
+prd-amea-analyt-diso-svc-7f.amea_ds_distributor_sellout.v_fct_distributor_invoice_line_item,distributor_invoice_line_sk,NUMERIC,NULLABLE,,True,0,16159112,0.0
+prd-amea-analyt-diso-svc-7f.amea_ds_distributor_sellout.v_fct_distributor_invoice_line_item,distributor_invoice_line_uom_sk,STRING,NULLABLE,,True,0,16159112,0.0
+prd-amea-analyt-diso-svc-7f.amea_ds_distributor_sellout.v_fct_distributor_invoice_line_item,distributor_invoice_net_sales_without_tax_amt,FLOAT,NULLABLE,,True,805417,16159112,4.98
+prd-amea-analyt-diso-svc-7f.amea_ds_distributor_sellout.v_fct_distributor_invoice_line_item,distributor_invoice_retailer_prod_nk,STRING,NULLABLE,,True,0,16159112,0.0
+prd-amea-analyt-diso-svc-7f.amea_ds_distributor_sellout.v_fct_distributor_invoice_line_item,distributor_invoice_warehousedescription,STRING,NULLABLE,,True,805494,16159112,4.98
+prd-amea-analyt-diso-svc-7f.amea_ds_distributor_sellout.v_fct_distributor_invoice_line_item,distributor_sk,NUMERIC,NULLABLE,,True,0,16159112,0.0
+prd-amea-analyt-diso-svc-7f.amea_ds_distributor_sellout.v_fct_distributor_invoice_line_item,iso_currency_code_nk,STRING,NULLABLE,,True,0,16159112,0.0
+prd-amea-analyt-diso-svc-7f.amea_ds_distributor_sellout.v_fct_distributor_invoice_line_item,product_nk,STRING,NULLABLE,,True,0,16159112,0.0
+prd-amea-analyt-diso-svc-7f.amea_ds_distributor_sellout.v_fct_distributor_invoice_line_item,product_sk,NUMERIC,NULLABLE,,True,0,16159112,0.0
+prd-amea-analyt-diso-svc-7f.amea_ds_distributor_sellout.v_fct_distributor_invoice_line_item,retailer_store_nk,STRING,NULLABLE,,True,638756,16159112,3.95
+prd-amea-analyt-diso-svc-7f.amea_ds_distributor_sellout.v_fct_distributor_invoice_line_item,distributor_invoice_sales_rep_id,STRING,NULLABLE,,True,805417,16159112,4.98
+prd-amea-analyt-diso-svc-7f.amea_ds_distributor_sellout.v_fct_distributor_invoice_line_item,source_distributor_code_nk,STRING,NULLABLE,,True,0,16159112,0.0
+prd-amea-analyt-diso-svc-7f.amea_ds_distributor_sellout.v_fct_distributor_invoice_line_item,source_product_code_nk,STRING,NULLABLE,,True,0,16159112,0.0
+prd-amea-analyt-diso-svc-7f.amea_ds_distributor_sellout.v_fct_distributor_invoice_line_item,source_store_nk,STRING,NULLABLE,,True,638756,16159112,3.95
+prd-amea-analyt-diso-svc-7f.amea_ds_distributor_sellout.v_fct_distributor_invoice_line_item,source_system_code_nk,STRING,NULLABLE,,True,0,16159112,0.0
+prd-amea-analyt-diso-svc-7f.amea_ds_distributor_sellout.v_fct_distributor_invoice_line_item,source_system_sk,NUMERIC,NULLABLE,,True,0,16159112,0.0
+prd-amea-analyt-diso-svc-7f.amea_ds_distributor_sellout.v_fct_distributor_invoice_line_item,store_sk,INTEGER,NULLABLE,,True,638756,16159112,3.95
+prd-amea-analyt-diso-svc-7f.amea_ds_distributor_sellout.v_fct_distributor_invoice_line_item,sub_brand_name,STRING,NULLABLE,,True,805417,16159112,4.98
+prd-amea-analyt-diso-svc-7f.amea_ds_distributor_sellout.v_fct_distributor_invoice_line_item,distributor_nk,STRING,NULLABLE,,True,0,16159112,0.0
+prd-amea-analyt-diso-svc-7f.amea_ds_distributor_sellout.v_fct_distributor_invoice_line_item,source_file_name,STRING,NULLABLE,,True,146917,16159112,0.91
+prd-amea-analyt-diso-svc-7f.amea_ds_distributor_sellout.v_fct_distributor_invoice_line_item,iso_currency_sk,NUMERIC,NULLABLE,,True,0,16159112,0.0
+prd-amea-analyt-diso-svc-7f.amea_ds_distributor_sellout.v_fct_distributor_invoice_line_item,distributor_invoice_line_discounts_qty,NUMERIC,NULLABLE,,True,0,16159112,0.0
+prd-amea-analyt-diso-svc-7f.amea_ds_distributor_sellout.v_fct_distributor_invoice_line_item,outlet_code,STRING,NULLABLE,,True,5,16159112,0.0
+prd-amea-analyt-diso-svc-7f.amea_ds_distributor_sellout.v_fct_distributor_invoice_line_item,outlet_code_rd_code,STRING,NULLABLE,,True,814313,16159112,5.04
+prd-amea-analyt-diso-svc-7f.amea_ds_distributor_sellout.v_fct_distributor_invoice_line_item,bq_insert_timestamp,TIMESTAMP,NULLABLE,,True,0,16159112,0.0
+prd-amea-analyt-diso-svc-7f.amea_ds_distributor_sellout.v_fct_distributor_invoice_line_item,bq_update_timestamp,TIMESTAMP,NULLABLE,,True,0,16159112,0.0
+prd-amea-analyt-diso-svc-7f.amea_ds_distributor_sellout.v_fct_distributor_invoice_line_item,bq_job_name,STRING,NULLABLE,,True,0,16159112,0.0
+prd-amea-analyt-diso-svc-7f.amea_ds_distributor_sellout.v_fct_distributor_invoice_line_item,bq_updated_by,STRING,NULLABLE,,True,0,16159112,0.0
+prd-amea-analyt-diso-svc-7f.amea_ds_distributor_sellout.v_fct_distributor_invoice_line_item,bq_inserted_by,INTEGER,NULLABLE,,True,0,16159112,0.0
+prd-amea-analyt-diso-svc-7f.amea_ds_distributor_sellout.v_fct_distributor_invoice_line_item,distributor_invoice_gross_unit_price_with_tax,NUMERIC,NULLABLE,,True,825646,16159112,5.11
+prd-amea-analyt-diso-svc-7f.amea_ds_distributor_sellout.v_fct_distributor_invoice_line_item,distributor_invoice_gross_unit_price_without_tax,NUMERIC,NULLABLE,,True,805417,16159112,4.98
+prd-amea-analyt-diso-svc-7f.amea_ds_distributor_sellout.v_fct_distributor_invoice_line_item,distributor_invoice_line_qty_cases,INTEGER,NULLABLE,,True,0,16159112,0.0
+prd-amea-analyt-diso-svc-7f.amea_ds_distributor_sellout.v_fct_distributor_invoice_line_item,distributor_invoice_line_uom_nk,STRING,NULLABLE,,True,0,16159112,0.0
+prd-amea-analyt-diso-svc-7f.amea_ds_distributor_sellout.v_fct_distributor_invoice_line_item,distributor_invoice_net_sales_amt,NUMERIC,NULLABLE,,True,805417,16159112,4.98
+prd-amea-analyt-diso-svc-7f.amea_ds_distributor_sellout.v_fct_distributor_invoice_line_item,distributor_invoice_sales_rep_type,STRING,NULLABLE,,True,0,16159112,0.0
+prd-amea-analyt-diso-svc-7f.amea_ds_distributor_sellout.v_fct_distributor_invoice_line_item,distributor_invoice_sales_system_user_sk,INTEGER,NULLABLE,,True,805417,16159112,4.98
+prd-amea-analyt-diso-svc-7f.amea_ds_distributor_sellout.v_fct_distributor_invoice_line_item,file_type_code,STRING,NULLABLE,,True,0,16159112,0.0
+dev-amea-analyt-sorsa-svc-38.dev_amea_p_ds_product_specific.v_manual_holiday_calendar_ma,bq_ingest_date,TIMESTAMP,NULLABLE,,True,0,142,0.0
+dev-amea-analyt-sorsa-svc-38.dev_amea_p_ds_product_specific.v_manual_holiday_calendar_ma,file_name,STRING,NULLABLE,,True,0,142,0.0
+dev-amea-analyt-sorsa-svc-38.dev_amea_p_ds_product_specific.v_manual_holiday_calendar_ma,uuid,STRING,NULLABLE,,True,0,142,0.0
+dev-amea-analyt-sorsa-svc-38.dev_amea_p_ds_product_specific.v_manual_holiday_calendar_ma,date,DATE,NULLABLE,,True,0,142,0.0
+dev-amea-analyt-sorsa-svc-38.dev_amea_p_ds_product_specific.v_manual_holiday_calendar_ma,name,STRING,NULLABLE,,True,0,142,0.0
+dev-amea-analyt-sorsa-svc-38.dev_amea_p_ds_product_specific.v_manual_holiday_calendar_ma,type,STRING,NULLABLE,,True,0,142,0.0
+dev-amea-analyt-sorsa-svc-38.dev_amea_p_ds_product_specific.v_manual_holiday_calendar_ma,bq_insert_timestamp,TIMESTAMP,NULLABLE,,True,0,142,0.0
+dev-amea-analyt-sorsa-svc-38.dev_amea_p_ds_product_specific.v_manual_holiday_calendar_ma,bq_update_timestamp,TIMESTAMP,NULLABLE,,True,0,142,0.0
+dev-amea-analyt-sorsa-svc-38.dev_amea_p_ds_product_specific.v_manual_holiday_calendar_ma,bq_job_name,STRING,NULLABLE,,True,0,142,0.0
+dev-amea-analyt-sorsa-svc-38.dev_amea_p_ds_product_specific.v_manual_holiday_calendar_ma,bq_updated_by,INTEGER,NULLABLE,,True,0,142,0.0
+dev-amea-analyt-sorsa-svc-38.dev_amea_p_ds_product_specific.v_manual_holiday_calendar_ma,bq_inserted_by,INTEGER,NULLABLE,,True,0,142,0.0
+dev-amea-analyt-sorsa-svc-38.dev_amea_p_ds_product_specific.v_manual_holiday_calendar_ma,source_system,STRING,NULLABLE,,True,0,142,0.0
+dev-amea-analyt-sorsa-svc-38.dev_amea_p_ds_product_specific.v_uom_ma,product_code,STRING,NULLABLE,,True,0,294,0.0
+dev-amea-analyt-sorsa-svc-38.dev_amea_p_ds_product_specific.v_uom_ma,piece_in_case,NUMERIC,NULLABLE,,True,255,294,86.73
+dev-amea-analyt-sorsa-svc-38.dev_amea_p_ds_product_specific.v_uom_ma,box_in_case,NUMERIC,NULLABLE,,True,113,294,38.44
+dev-amea-analyt-sorsa-svc-38.dev_amea_p_ds_product_specific.v_uom_ma,case_in_case,NUMERIC,NULLABLE,,True,217,294,73.81
+dev-amea-analyt-sorsa-svc-38.dev_amea_p_ds_product_specific.v_product_push_ma,country_code,STRING,NULLABLE,,True,0,80,0.0
+dev-amea-analyt-sorsa-svc-38.dev_amea_p_ds_product_specific.v_product_push_ma,product_code,STRING,NULLABLE,,True,0,80,0.0
+dev-amea-analyt-sorsa-svc-38.dev_amea_p_ds_product_specific.v_product_push_ma,description,STRING,NULLABLE,,True,0,80,0.0
+dev-amea-analyt-sorsa-svc-38.dev_amea_p_ds_product_specific.v_product_push_ma,year,INTEGER,NULLABLE,,True,0,80,0.0
+dev-amea-analyt-sorsa-svc-38.dev_amea_p_ds_product_specific.v_product_push_ma,month,INTEGER,NULLABLE,,True,0,80,0.0
+dev-amea-analyt-sorsa-svc-38.dev_amea_p_ds_product_specific.v_product_push_ma,msl,INTEGER,NULLABLE,,True,20,80,25.0
+dev-amea-analyt-sorsa-svc-38.dev_amea_p_ds_product_specific.v_product_push_ma,push,INTEGER,NULLABLE,,True,62,80,77.5
+prd-meu-analyt-md-svc-64.meu_dc_md.t_dim_material_salesarea,material_salesarea_sk,INTEGER,NULLABLE,Surrogate Key,True,0,1256461,0.0
+prd-meu-analyt-md-svc-64.meu_dc_md.t_dim_material_salesarea,material_sk,INTEGER,NULLABLE,Surrogate Key from material dim,True,0,1256461,0.0
+prd-meu-analyt-md-svc-64.meu_dc_md.t_dim_material_salesarea,validity_start_dt,TIMESTAMP,NULLABLE,Material salesarea validity start date,True,0,1256461,0.0
+prd-meu-analyt-md-svc-64.meu_dc_md.t_dim_material_salesarea,validity_end_dt,TIMESTAMP,NULLABLE,Material salesarea validity end date,True,0,1256461,0.0
+prd-meu-analyt-md-svc-64.meu_dc_md.t_dim_material_salesarea,is_current,STRING,NULLABLE,flag indicator for latest record,True,0,1256461,0.0
+prd-meu-analyt-md-svc-64.meu_dc_md.t_dim_material_salesarea,src_delete_fl,STRING,NULLABLE,flag to indicate hard deletion at source,True,0,1256461,0.0
+prd-meu-analyt-md-svc-64.meu_dc_md.t_dim_material_salesarea,material_cd_nk,STRING,NULLABLE,MEU material Number,True,0,1256461,0.0
+prd-meu-analyt-md-svc-64.meu_dc_md.t_dim_material_salesarea,sales_org_cd_nk,STRING,NULLABLE,Sales Organization,True,0,1256461,0.0
+prd-meu-analyt-md-svc-64.meu_dc_md.t_dim_material_salesarea,dist_channel_cd_nk,STRING,NULLABLE,Distribution Channel,True,0,1256461,0.0
+prd-meu-analyt-md-svc-64.meu_dc_md.t_dim_material_salesarea,dist_channel_ds,STRING,NULLABLE,Distribution Channel Description,True,0,1256461,0.0
+prd-meu-analyt-md-svc-64.meu_dc_md.t_dim_material_salesarea,commission_grp_cd,STRING,NULLABLE,Commission group,True,1145642,1256461,91.18
+prd-meu-analyt-md-svc-64.meu_dc_md.t_dim_material_salesarea,cash_discount_ind_fl,STRING,NULLABLE,Cash discount indicator,True,58215,1256461,4.63
+prd-meu-analyt-md-svc-64.meu_dc_md.t_dim_material_salesarea,dc_status_cd,STRING,NULLABLE,Distribution-chain-specific material status,True,4335,1256461,0.35
+prd-meu-analyt-md-svc-64.meu_dc_md.t_dim_material_salesarea,dc_status_ds,STRING,NULLABLE,Distribution-chain-specific material status Description,True,4337,1256461,0.35
+prd-meu-analyt-md-svc-64.meu_dc_md.t_dim_material_salesarea,dc_status_dt,DATE,NULLABLE,Date from which distr.-chain-spec. material status is valid,True,4328,1256461,0.34
+prd-meu-analyt-md-svc-64.meu_dc_md.t_dim_material_salesarea,item_cat_grp_cd,STRING,NULLABLE,Item category group,True,47,1256461,0.0
+prd-meu-analyt-md-svc-64.meu_dc_md.t_dim_material_salesarea,mat_pric_grp_cd,STRING,NULLABLE,Material Pricing group,True,1123495,1256461,89.42
+prd-meu-analyt-md-svc-64.meu_dc_md.t_dim_material_salesarea,account_assn_grp_cd,STRING,NULLABLE,Account assignment group,True,34921,1256461,2.78
+prd-meu-analyt-md-svc-64.meu_dc_md.t_dim_material_salesarea,account_assn_grp_ds,STRING,NULLABLE,Account Assignment Group Description,True,34937,1256461,2.78
+prd-meu-analyt-md-svc-64.meu_dc_md.t_dim_material_salesarea,material_grp_2_cd,STRING,NULLABLE,Material group 2,True,1159265,1256461,92.26
+prd-meu-analyt-md-svc-64.meu_dc_md.t_dim_material_salesarea,material_grp_3_cd,STRING,NULLABLE,Material group 3,True,1176683,1256461,93.65
+prd-meu-analyt-md-svc-64.meu_dc_md.t_dim_material_salesarea,basecode_cd,STRING,NULLABLE,MI Gen Text Field 13,True,985459,1256461,78.43
+prd-meu-analyt-md-svc-64.meu_dc_md.t_dim_material_salesarea,avl_start_dt,DATE,NULLABLE,Availability Start Date,True,1027552,1256461,81.78
+prd-meu-analyt-md-svc-64.meu_dc_md.t_dim_material_salesarea,delivering_plant_cd,STRING,NULLABLE,Delivering Plant (Own or External),True,721886,1256461,57.45
+prd-meu-analyt-md-svc-64.meu_dc_md.t_dim_material_salesarea,sales_product_hierarchy_cd,STRING,NULLABLE,Product Hierarchy,True,665576,1256461,52.97
+prd-meu-analyt-md-svc-64.meu_dc_md.t_dim_material_salesarea,sales_product_hierarchy_ds,STRING,NULLABLE,Sales Product Hierarchy Description,True,667970,1256461,53.16
+prd-meu-analyt-md-svc-64.meu_dc_md.t_dim_material_salesarea,mat_stats_grp_cd,STRING,NULLABLE,Material statistics group,True,59129,1256461,4.71
+prd-meu-analyt-md-svc-64.meu_dc_md.t_dim_material_salesarea,sales_unit_cd,STRING,NULLABLE,Sales Unit,True,642751,1256461,51.16
+prd-meu-analyt-md-svc-64.meu_dc_md.t_dim_material_salesarea,bq_insert_timestamp,TIMESTAMP,NULLABLE,Start time of loading data to Master table,True,0,1256461,0.0
+prd-meu-analyt-md-svc-64.meu_dc_md.t_dim_material_salesarea,bq_update_timestamp,TIMESTAMP,NULLABLE,End time of loading data to Master table,True,0,1256461,0.0
+prd-meu-analyt-md-svc-64.meu_dc_md.t_dim_material_salesarea,bq_inserted_by,INTEGER,NULLABLE,Inserted by RCTL Run id,True,0,1256461,0.0
+prd-meu-analyt-md-svc-64.meu_dc_md.t_dim_material_salesarea,bq_updated_by,INTEGER,NULLABLE,Updated by RCTL Run id,True,0,1256461,0.0
+prd-meu-analyt-md-svc-64.meu_dc_md.t_dim_material_salesarea,pipeline_process_id,INTEGER,NULLABLE,RCTL Process ID for the Store Proc Call,True,0,1256461,0.0
+prd-amea-analyt-md-svc-7c.prd_amea_dc_md.t_dim_material,material_sk,INTEGER,NULLABLE,surrogate key  from material code,True,0,4277004,0.0
+prd-amea-analyt-md-svc-7c.prd_amea_dc_md.t_dim_material,sap_region_cd_nk,STRING,NULLABLE,Mdlz region code,True,0,4277004,0.0
+prd-amea-analyt-md-svc-7c.prd_amea_dc_md.t_dim_material,material_cd_nk,STRING,NULLABLE,natural key representing the unique identifier for a material within the SAP system,True,0,4277004,0.0
+prd-amea-analyt-md-svc-7c.prd_amea_dc_md.t_dim_material,validity_start_dt,TIMESTAMP,NULLABLE,validity start date,True,0,4277004,0.0
+prd-amea-analyt-md-svc-7c.prd_amea_dc_md.t_dim_material,validity_end_dt,TIMESTAMP,NULLABLE,validity end date,True,4,4277004,0.0
+prd-amea-analyt-md-svc-7c.prd_amea_dc_md.t_dim_material,is_current,STRING,NULLABLE,flag indicator for latest record,True,0,4277004,0.0
+prd-amea-analyt-md-svc-7c.prd_amea_dc_md.t_dim_material,material_group_sk,INTEGER,NULLABLE,surrogate key is used to uniquely identify a material group in the data warehouse,True,0,4277004,0.0
+prd-amea-analyt-md-svc-7c.prd_amea_dc_md.t_dim_material,material_group_cd,STRING,NULLABLE,Material Group,True,0,4277004,0.0
+prd-amea-analyt-md-svc-7c.prd_amea_dc_md.t_dim_material,created_on_dt,DATE,NULLABLE,Created On Date,True,0,4277004,0.0
+prd-amea-analyt-md-svc-7c.prd_amea_dc_md.t_dim_material,created_on_dt_sk,INTEGER,NULLABLE,surrogate key field of the date field Created On,True,0,4277004,0.0
+prd-amea-analyt-md-svc-7c.prd_amea_dc_md.t_dim_material,last_change_dt,DATE,NULLABLE,Last Changed Date,True,0,4277004,0.0
+prd-amea-analyt-md-svc-7c.prd_amea_dc_md.t_dim_material,last_change_dt_sk,INTEGER,NULLABLE,surrogate key field of the date field last changed,True,0,4277004,0.0
+prd-amea-analyt-md-svc-7c.prd_amea_dc_md.t_dim_material,changed_by_nm,STRING,NULLABLE,Name of Person Who Changed Object,True,0,4277004,0.0
+prd-amea-analyt-md-svc-7c.prd_amea_dc_md.t_dim_material,complete_material_maintenance_status_cd,STRING,NULLABLE,Maintenance status of complete material,True,0,4277004,0.0
+prd-amea-analyt-md-svc-7c.prd_amea_dc_md.t_dim_material,maintenance_status_cd,STRING,NULLABLE,Maintenance status,True,0,4277004,0.0
+prd-amea-analyt-md-svc-7c.prd_amea_dc_md.t_dim_material,deletion_client_level_fl,STRING,NULLABLE,Flag Material for Deletion at Client Level,True,0,4277004,0.0
+prd-amea-analyt-md-svc-7c.prd_amea_dc_md.t_dim_material,material_type_cd,STRING,NULLABLE,Material Type,True,0,4277004,0.0
+prd-amea-analyt-md-svc-7c.prd_amea_dc_md.t_dim_material,industry_sector_cd,STRING,NULLABLE,Industry sector,True,0,4277004,0.0
+prd-amea-analyt-md-svc-7c.prd_amea_dc_md.t_dim_material,old_material_number_cd,STRING,NULLABLE,Old material number,True,0,4277004,0.0
+prd-amea-analyt-md-svc-7c.prd_amea_dc_md.t_dim_material,base_unit_of_measure_cd,STRING,NULLABLE,Base Unit of Measure,True,0,4277004,0.0
+prd-amea-analyt-md-svc-7c.prd_amea_dc_md.t_dim_material,purchase_order_unit_of_measure_cd,STRING,NULLABLE,Purchase Order Unit of Measure,True,0,4277004,0.0
+prd-amea-analyt-md-svc-7c.prd_amea_dc_md.t_dim_material,document_number_without_dms_cd,STRING,NULLABLE,Document number (without document management system),True,0,4277004,0.0
+prd-amea-analyt-md-svc-7c.prd_amea_dc_md.t_dim_material,document_tp,STRING,NULLABLE,Document type (without Document Management system),True,0,4277004,0.0
+prd-amea-analyt-md-svc-7c.prd_amea_dc_md.t_dim_material,document_version,STRING,NULLABLE,Document version (without Document Management system),True,0,4277004,0.0
+prd-amea-analyt-md-svc-7c.prd_amea_dc_md.t_dim_material,page_format_without_dms_cd,STRING,NULLABLE,Page format of document (without Document Management system),True,0,4277004,0.0
+prd-amea-analyt-md-svc-7c.prd_amea_dc_md.t_dim_material,document_change_number_without_dms_cd,STRING,NULLABLE,Document change number (without document management system),True,0,4277004,0.0
+prd-amea-analyt-md-svc-7c.prd_amea_dc_md.t_dim_material,page_number_without_dms_cd,STRING,NULLABLE,Page number of document (without Document Management system),True,0,4277004,0.0
+prd-amea-analyt-md-svc-7c.prd_amea_dc_md.t_dim_material,number_of_sheets_without_dms_cd,STRING,NULLABLE,Number of sheets (without Document Management system),True,0,4277004,0.0
+prd-amea-analyt-md-svc-7c.prd_amea_dc_md.t_dim_material,production_inspection_memo_txt,STRING,NULLABLE,Production/inspection memo,True,0,4277004,0.0
+prd-amea-analyt-md-svc-7c.prd_amea_dc_md.t_dim_material,production_memo_page_format_cd,STRING,NULLABLE,Page Format of Production Memo,True,0,4277004,0.0
+prd-amea-analyt-md-svc-7c.prd_amea_dc_md.t_dim_material,size_dimensions_txt,STRING,NULLABLE,Size dimensions,True,0,4277004,0.0
+prd-amea-analyt-md-svc-7c.prd_amea_dc_md.t_dim_material,basic_material_cd,STRING,NULLABLE,Basic Material,True,0,4277004,0.0
+prd-amea-analyt-md-svc-7c.prd_amea_dc_md.t_dim_material,industry_standard_description_txt,STRING,NULLABLE,Industry Standard Description (such as ANSI or ISO),True,0,4277004,0.0
+prd-amea-analyt-md-svc-7c.prd_amea_dc_md.t_dim_material,laboratory_design_office_txt,STRING,NULLABLE,Laboratory/design office,True,0,4277004,0.0
+prd-amea-analyt-md-svc-7c.prd_amea_dc_md.t_dim_material,purchasing_key_vl,STRING,NULLABLE,Purchasing Value Key,True,0,4277004,0.0
+prd-amea-analyt-md-svc-7c.prd_amea_dc_md.t_dim_material,gross_weight_vl,NUMERIC,NULLABLE,Gross Weight,True,0,4277004,0.0
+prd-amea-analyt-md-svc-7c.prd_amea_dc_md.t_dim_material,net_weight_vl,NUMERIC,NULLABLE,Net Weight,True,0,4277004,0.0
+prd-amea-analyt-md-svc-7c.prd_amea_dc_md.t_dim_material,weight_unit_cd,STRING,NULLABLE,Weight Unit,True,0,4277004,0.0
+prd-amea-analyt-md-svc-7c.prd_amea_dc_md.t_dim_material,volume_vl,NUMERIC,NULLABLE,Volume,True,0,4277004,0.0
+prd-amea-analyt-md-svc-7c.prd_amea_dc_md.t_dim_material,volume_unit_cd,STRING,NULLABLE,Volume unit,True,0,4277004,0.0
+prd-amea-analyt-md-svc-7c.prd_amea_dc_md.t_dim_material,container_req_cd,STRING,NULLABLE,Container requirements,True,0,4277004,0.0
+prd-amea-analyt-md-svc-7c.prd_amea_dc_md.t_dim_material,storage_conditions_cd,STRING,NULLABLE,Storage conditions,True,0,4277004,0.0
+prd-amea-analyt-md-svc-7c.prd_amea_dc_md.t_dim_material,temp_conditions_ind,STRING,NULLABLE,Temperature conditions indicator,True,0,4277004,0.0
+prd-amea-analyt-md-svc-7c.prd_amea_dc_md.t_dim_material,low_level_cd,STRING,NULLABLE,Low-Level Code,True,0,4277004,0.0
+prd-amea-analyt-md-svc-7c.prd_amea_dc_md.t_dim_material,transportation_group_cd,STRING,NULLABLE,Transportation Group,True,0,4277004,0.0
+prd-amea-analyt-md-svc-7c.prd_amea_dc_md.t_dim_material,hazardous_material_cd,STRING,NULLABLE,Hazardous material number,True,0,4277004,0.0
+prd-amea-analyt-md-svc-7c.prd_amea_dc_md.t_dim_material,division_cd,STRING,NULLABLE,Division,True,0,4277004,0.0
+prd-amea-analyt-md-svc-7c.prd_amea_dc_md.t_dim_material,competitor_cd,STRING,NULLABLE,Competitor,True,0,4277004,0.0
+prd-amea-analyt-md-svc-7c.prd_amea_dc_md.t_dim_material,ean_cd_obsolete,STRING,NULLABLE,European Article Number (EAN) - obsolete!!!!!,True,0,4277004,0.0
+prd-amea-analyt-md-svc-7c.prd_amea_dc_md.t_dim_material,gr_gi_slips_qt,NUMERIC,NULLABLE,Quantity: Number of GR/GI slips to be printed,True,0,4277004,0.0
+prd-amea-analyt-md-svc-7c.prd_amea_dc_md.t_dim_material,procurement_rule_cd,STRING,NULLABLE,Procurement rule,True,0,4277004,0.0
+prd-amea-analyt-md-svc-7c.prd_amea_dc_md.t_dim_material,source_supply_cd,STRING,NULLABLE,Source of Supply,True,0,4277004,0.0
+prd-amea-analyt-md-svc-7c.prd_amea_dc_md.t_dim_material,season_category_cd,STRING,NULLABLE,Season Category,True,0,4277004,0.0
+prd-amea-analyt-md-svc-7c.prd_amea_dc_md.t_dim_material,label_tp,STRING,NULLABLE,Label type,True,0,4277004,0.0
+prd-amea-analyt-md-svc-7c.prd_amea_dc_md.t_dim_material,label_form,STRING,NULLABLE,Label form,True,0,4277004,0.0
+prd-amea-analyt-md-svc-7c.prd_amea_dc_md.t_dim_material,deactivated_ind,STRING,NULLABLE,Deactivated,True,0,4277004,0.0
+prd-amea-analyt-md-svc-7c.prd_amea_dc_md.t_dim_material,international_article_nm,STRING,NULLABLE,International Article Number (EAN/UPC),True,0,4277004,0.0
+prd-amea-analyt-md-svc-7c.prd_amea_dc_md.t_dim_material,ean_category,STRING,NULLABLE,Category of International Article Number (EAN),True,0,4277004,0.0
+prd-amea-analyt-md-svc-7c.prd_amea_dc_md.t_dim_material,length_qt,NUMERIC,NULLABLE,Length,True,0,4277004,0.0
+prd-amea-analyt-md-svc-7c.prd_amea_dc_md.t_dim_material,width_vl,NUMERIC,NULLABLE,Width,True,0,4277004,0.0
+prd-amea-analyt-md-svc-7c.prd_amea_dc_md.t_dim_material,height_qt,NUMERIC,NULLABLE,Height,True,0,4277004,0.0
+prd-amea-analyt-md-svc-7c.prd_amea_dc_md.t_dim_material,dimension_unit,STRING,NULLABLE,Unit of Dimension for Length/Width/Height,True,0,4277004,0.0
+prd-amea-analyt-md-svc-7c.prd_amea_dc_md.t_dim_material,product_hierarchy_cd,STRING,NULLABLE,Product hierarchy,True,0,4277004,0.0
+prd-amea-analyt-md-svc-7c.prd_amea_dc_md.t_dim_material,stock_transfer_costing_ind,STRING,NULLABLE,Stock Transfer Net Change Costing,True,0,4277004,0.0
+prd-amea-analyt-md-svc-7c.prd_amea_dc_md.t_dim_material,cad_indicator,STRING,NULLABLE,CAD Indicator,True,0,4277004,0.0
+prd-amea-analyt-md-svc-7c.prd_amea_dc_md.t_dim_material,qm_procurement_active_ind,STRING,NULLABLE,QM in Procurement is Active,True,0,4277004,0.0
+prd-amea-analyt-md-svc-7c.prd_amea_dc_md.t_dim_material,allowed_packaging_weight_vl,NUMERIC,NULLABLE,Allowed packaging weight,True,0,4277004,0.0
+prd-amea-analyt-md-svc-7c.prd_amea_dc_md.t_dim_material,allowed_packaging_weight_unit_cd,STRING,NULLABLE,Unit of weight (allowed packaging weight),True,0,4277004,0.0
+prd-amea-analyt-md-svc-7c.prd_amea_dc_md.t_dim_material,allowed_packaging_volume_vl,NUMERIC,NULLABLE,Allowed packaging volume,True,0,4277004,0.0
+prd-amea-analyt-md-svc-7c.prd_amea_dc_md.t_dim_material,allowed_packaging_volume_unit_cd,STRING,NULLABLE,Volume unit (allowed packaging volume),True,0,4277004,0.0
+prd-amea-analyt-md-svc-7c.prd_amea_dc_md.t_dim_material,excess_weight_tolerance_qt,NUMERIC,NULLABLE,Excess Weight Tolerance for Handling unit,True,0,4277004,0.0
+prd-amea-analyt-md-svc-7c.prd_amea_dc_md.t_dim_material,excess_volume_tolerance_qt,NUMERIC,NULLABLE,Excess Volume Tolerance of the Handling Unit,True,0,4277004,0.0
+prd-amea-analyt-md-svc-7c.prd_amea_dc_md.t_dim_material,variable_po_unit_active_ind,STRING,NULLABLE,Variable Purchase Order Unit Active,True,0,4277004,0.0
+prd-amea-analyt-md-svc-7c.prd_amea_dc_md.t_dim_material,revision_level_assigned_ind,STRING,NULLABLE,Revision Level Has Been Assigned to the Material,True,0,4277004,0.0
+prd-amea-analyt-md-svc-7c.prd_amea_dc_md.t_dim_material,configurable_material_ind,STRING,NULLABLE,Configurable Material,True,0,4277004,0.0
+prd-amea-analyt-md-svc-7c.prd_amea_dc_md.t_dim_material,batch_mgmt_req_ind,STRING,NULLABLE,Batch management requirement indicator,True,0,4277004,0.0
+prd-amea-analyt-md-svc-7c.prd_amea_dc_md.t_dim_material,packaging_material_type_cd,STRING,NULLABLE,Packaging Material Type,True,0,4277004,0.0
+prd-amea-analyt-md-svc-7c.prd_amea_dc_md.t_dim_material,max_volume_level_qt,NUMERIC,NULLABLE,Maximum level (by volume),True,0,4277004,0.0
+prd-amea-analyt-md-svc-7c.prd_amea_dc_md.t_dim_material,stacking_factor_qt,NUMERIC,NULLABLE,Stacking factor,True,0,4277004,0.0
+prd-amea-analyt-md-svc-7c.prd_amea_dc_md.t_dim_material,material_group_packaging_cd,STRING,NULLABLE,Material Group: Packaging Materials,True,0,4277004,0.0
+prd-amea-analyt-md-svc-7c.prd_amea_dc_md.t_dim_material,authorization_group_cd,STRING,NULLABLE,Authorization Group,True,0,4277004,0.0
+prd-amea-analyt-md-svc-7c.prd_amea_dc_md.t_dim_material,valid_from_dt,DATE,NULLABLE,Valid From Date,True,0,4277004,0.0
+prd-amea-analyt-md-svc-7c.prd_amea_dc_md.t_dim_material,valid_from_dt_sk,INTEGER,NULLABLE,surrogate key field of the date field valid from,True,0,4277004,0.0
+prd-amea-analyt-md-svc-7c.prd_amea_dc_md.t_dim_material,deletion_dt,DATE,NULLABLE,Deletion date,True,0,4277004,0.0
+prd-amea-analyt-md-svc-7c.prd_amea_dc_md.t_dim_material,deletion_dt_sk,INTEGER,NULLABLE,surrogate key field of the date field deletion date,True,0,4277004,0.0
+prd-amea-analyt-md-svc-7c.prd_amea_dc_md.t_dim_material,season_year_cd,STRING,NULLABLE,Season Year,True,0,4277004,0.0
+prd-amea-analyt-md-svc-7c.prd_amea_dc_md.t_dim_material,price_band_category_cd,STRING,NULLABLE,Price Band Category,True,0,4277004,0.0
+prd-amea-analyt-md-svc-7c.prd_amea_dc_md.t_dim_material,empties_bom_cd,STRING,NULLABLE,Empties Bill of Material,True,0,4277004,0.0
+prd-amea-analyt-md-svc-7c.prd_amea_dc_md.t_dim_material,external_material_group_cd,STRING,NULLABLE,External Material Group,True,0,4277004,0.0
+prd-amea-analyt-md-svc-7c.prd_amea_dc_md.t_dim_material,cross_plant_config_material_cd,STRING,NULLABLE,Cross-Plant Configurable Material,True,0,4277004,0.0
+prd-amea-analyt-md-svc-7c.prd_amea_dc_md.t_dim_material,material_category_cd,STRING,NULLABLE,Material Category,True,0,4277004,0.0
+prd-amea-analyt-md-svc-7c.prd_amea_dc_md.t_dim_material,co_product_indicator,STRING,NULLABLE,Indicator: Material can be co-product,True,0,4277004,0.0
+prd-amea-analyt-md-svc-7c.prd_amea_dc_md.t_dim_material,follow_up_material_ind,STRING,NULLABLE,Indicator: The material has a follow-up material,True,0,4277004,0.0
+prd-amea-analyt-md-svc-7c.prd_amea_dc_md.t_dim_material,pricing_ref_material_cd,STRING,NULLABLE,Pricing Reference Material,True,0,4277004,0.0
+prd-amea-analyt-md-svc-7c.prd_amea_dc_md.t_dim_material,cross_plant_material_status_cd,STRING,NULLABLE,Cross-Plant Material Status,True,0,4277004,0.0
+prd-amea-analyt-md-svc-7c.prd_amea_dc_md.t_dim_material,cross_distribution_material_status_cd,STRING,NULLABLE,Cross-distribution-chain material status,True,0,4277004,0.0
+prd-amea-analyt-md-svc-7c.prd_amea_dc_md.t_dim_material,cross_plant_material_status_valid_from_dat,DATE,NULLABLE,Date from which the cross-plant material status is valid,True,0,4277004,0.0
+prd-amea-analyt-md-svc-7c.prd_amea_dc_md.t_dim_material,cross_distribution_material_status_valid_from_dt,DATE,NULLABLE,Date from which the X-distr.-chain material status is valid,True,0,4277004,0.0
+prd-amea-analyt-md-svc-7c.prd_amea_dc_md.t_dim_material,cross_distribution_material_status_valid_from_dt_sk,INTEGER,NULLABLE,surrogate key field of the date field cross_distribution_material_status_valid_from,True,0,4277004,0.0
+prd-amea-analyt-md-svc-7c.prd_amea_dc_md.t_dim_material,tax_classification_cd,STRING,NULLABLE,Tax classification of the material,True,0,4277004,0.0
+prd-amea-analyt-md-svc-7c.prd_amea_dc_md.t_dim_material,catalog_profile_cd,STRING,NULLABLE,Catalog Profile,True,0,4277004,0.0
+prd-amea-analyt-md-svc-7c.prd_amea_dc_md.t_dim_material,min_remaining_shelf_life_days,NUMERIC,NULLABLE,Minimum Remaining Shelf Life,True,0,4277004,0.0
+prd-amea-analyt-md-svc-7c.prd_amea_dc_md.t_dim_material,total_shelf_life_days,NUMERIC,NULLABLE,Total shelf life,True,0,4277004,0.0
+prd-amea-analyt-md-svc-7c.prd_amea_dc_md.t_dim_material,storage_percentage,NUMERIC,NULLABLE,Storage percentage,True,0,4277004,0.0
+prd-amea-analyt-md-svc-7c.prd_amea_dc_md.t_dim_material,content_unit_cd,STRING,NULLABLE,Content unit,True,0,4277004,0.0
+prd-amea-analyt-md-svc-7c.prd_amea_dc_md.t_dim_material,net_contents_qt,NUMERIC,NULLABLE,Net contents,True,0,4277004,0.0
+prd-amea-analyt-md-svc-7c.prd_amea_dc_md.t_dim_material,comparison_price_unit_cd,NUMERIC,NULLABLE,Comparison price unit,True,0,4277004,0.0
+prd-amea-analyt-md-svc-7c.prd_amea_dc_md.t_dim_material,isr_label_material_grouping_cd,STRING,NULLABLE,IS-R Labeling: material grouping (deactivated in 4.0),True,0,4277004,0.0
+prd-amea-analyt-md-svc-7c.prd_amea_dc_md.t_dim_material,gross_contents_qt,NUMERIC,NULLABLE,Gross contents,True,0,4277004,0.0
+prd-amea-analyt-md-svc-7c.prd_amea_dc_md.t_dim_material,qt_conversion_method_cd,STRING,NULLABLE,Quantity Conversion Method,True,0,4277004,0.0
+prd-amea-analyt-md-svc-7c.prd_amea_dc_md.t_dim_material,internal_object_number,STRING,NULLABLE,Internal object number,True,0,4277004,0.0
+prd-amea-analyt-md-svc-7c.prd_amea_dc_md.t_dim_material,env_relevant_ind,STRING,NULLABLE,Environmentally Relevant,True,0,4277004,0.0
+prd-amea-analyt-md-svc-7c.prd_amea_dc_md.t_dim_material,product_allocation_proc_cd,STRING,NULLABLE,Product allocation determination procedure,True,0,4277004,0.0
+prd-amea-analyt-md-svc-7c.prd_amea_dc_md.t_dim_material,pricing_profile_variants_cd,STRING,NULLABLE,Pricing profile for variants,True,0,4277004,0.0
+prd-amea-analyt-md-svc-7c.prd_amea_dc_md.t_dim_material,material_discount_kind_ind,STRING,NULLABLE,Material qualifies for discount in kind,True,0,4277004,0.0
+prd-amea-analyt-md-svc-7c.prd_amea_dc_md.t_dim_material,manufacturer_part_number,STRING,NULLABLE,Manufacturer Part Number,True,0,4277004,0.0
+prd-amea-analyt-md-svc-7c.prd_amea_dc_md.t_dim_material,manufacturer_number_cd,STRING,NULLABLE,Number of a Manufacturer,True,0,4277004,0.0
+prd-amea-analyt-md-svc-7c.prd_amea_dc_md.t_dim_material,inventory_managed_material_number_cd,STRING,NULLABLE,Number of firm's own (internal) inventory-managed material,True,0,4277004,0.0
+prd-amea-analyt-md-svc-7c.prd_amea_dc_md.t_dim_material,manufacturer_part_profile_cd,STRING,NULLABLE,Manufacturer Part Profile,True,0,4277004,0.0
+prd-amea-analyt-md-svc-7c.prd_amea_dc_md.t_dim_material,uom_usage_cd,STRING,NULLABLE,Units of measure usage,True,0,4277004,0.0
+prd-amea-analyt-md-svc-7c.prd_amea_dc_md.t_dim_material,season_rollout_cd,STRING,NULLABLE,Rollout in a Season,True,0,4277004,0.0
+prd-amea-analyt-md-svc-7c.prd_amea_dc_md.t_dim_material,dangerous_goods_indicator_profile_cd,STRING,NULLABLE,Dangerous Goods Indicator Profile,True,0,4277004,0.0
+prd-amea-analyt-md-svc-7c.prd_amea_dc_md.t_dim_material,highly_viscous_ind,STRING,NULLABLE,Indicator: Highly Viscous,True,0,4277004,0.0
+prd-amea-analyt-md-svc-7c.prd_amea_dc_md.t_dim_material,bulk_liquid_ind,STRING,NULLABLE,Indicator: In Bulk/Liquid,True,0,4277004,0.0
+prd-amea-analyt-md-svc-7c.prd_amea_dc_md.t_dim_material,serial_number_explicitness_level_cd,STRING,NULLABLE,Level of Explicitness for Serial Number,True,0,4277004,0.0
+prd-amea-analyt-md-svc-7c.prd_amea_dc_md.t_dim_material,closed_packaging_ind,STRING,NULLABLE,Packaging Material is Closed Packaging,True,0,4277004,0.0
+prd-amea-analyt-md-svc-7c.prd_amea_dc_md.t_dim_material,approved_batch_record_req_ind,STRING,NULLABLE,Indicator: Approved batch record required,True,0,4277004,0.0
+prd-amea-analyt-md-svc-7c.prd_amea_dc_md.t_dim_material,effectivity_param_voverride_change_numbers_vl,STRING,NULLABLE,Assign effectivity parameter values/ override change numbers,True,0,4277004,0.0
+prd-amea-analyt-md-svc-7c.prd_amea_dc_md.t_dim_material,material_completion_level_cd,STRING,NULLABLE,Material completion level,True,0,4277004,0.0
+prd-amea-analyt-md-svc-7c.prd_amea_dc_md.t_dim_material,shelf_life_period_indicator_cd,STRING,NULLABLE,Period Indicator for Shelf Life Expiration Date,True,0,4277004,0.0
+prd-amea-analyt-md-svc-7c.prd_amea_dc_md.t_dim_material,rounding_rule_sled_cd,STRING,NULLABLE,Rounding rule for calculation of SLED,True,0,4277004,0.0
+prd-amea-analyt-md-svc-7c.prd_amea_dc_md.t_dim_material,product_composition_printed_ind,STRING,NULLABLE,Indicator: Product composition printed on packaging,True,0,4277004,0.0
+prd-amea-analyt-md-svc-7c.prd_amea_dc_md.t_dim_material,general_item_category_group_cd,STRING,NULLABLE,General item category group,True,0,4277004,0.0
+prd-amea-analyt-md-svc-7c.prd_amea_dc_md.t_dim_material,generic_material_log_variants_cd,STRING,NULLABLE,Generic Material with Logistical Variants,True,0,4277004,0.0
+prd-amea-analyt-md-svc-7c.prd_amea_dc_md.t_dim_material,material_locked_ind,STRING,NULLABLE,Material Is Locked,True,0,4277004,0.0
+prd-amea-analyt-md-svc-7c.prd_amea_dc_md.t_dim_material,config_management_relevant_ind,STRING,NULLABLE,Relevant for Configuration Management,True,0,4277004,0.0
+prd-amea-analyt-md-svc-7c.prd_amea_dc_md.t_dim_material,assortment_list_type_cd,STRING,NULLABLE,Assortment List Type,True,0,4277004,0.0
+prd-amea-analyt-md-svc-7c.prd_amea_dc_md.t_dim_material,expiration_cd,STRING,NULLABLE,Expiration Date,True,3017380,4277004,70.55
+prd-amea-analyt-md-svc-7c.prd_amea_dc_md.t_dim_material,gtin_variant_cd,STRING,NULLABLE,Global Trade Item Number Variant,True,0,4277004,0.0
+prd-amea-analyt-md-svc-7c.prd_amea_dc_md.t_dim_material,generic_material_number_cd,STRING,NULLABLE,Material Number of the Generic Material in Prepack Materials,True,0,4277004,0.0
+prd-amea-analyt-md-svc-7c.prd_amea_dc_md.t_dim_material,ref_material_same_pack_cd,STRING,NULLABLE,Reference material for materials packed in same way,True,0,4277004,0.0
+prd-amea-analyt-md-svc-7c.prd_amea_dc_md.t_dim_material,global_data_sync_relevant_ind,STRING,NULLABLE,Indicator: Global Data Synchronization-Relevant,True,0,4277004,0.0
+prd-amea-analyt-md-svc-7c.prd_amea_dc_md.t_dim_material,acceptance_at_origin_ind,STRING,NULLABLE,Acceptance At Origin,True,0,4277004,0.0
+prd-amea-analyt-md-svc-7c.prd_amea_dc_md.t_dim_material,standard_hu_type_cd,STRING,NULLABLE,Standard HU Type,True,0,4277004,0.0
+prd-amea-analyt-md-svc-7c.prd_amea_dc_md.t_dim_material,pilferable_ind,STRING,NULLABLE,Pilferable,True,0,4277004,0.0
+prd-amea-analyt-md-svc-7c.prd_amea_dc_md.t_dim_material,warehouse_storage_condition_cd,STRING,NULLABLE,Warehouse Storage Condition,True,0,4277004,0.0
+prd-amea-analyt-md-svc-7c.prd_amea_dc_md.t_dim_material,warehouse_material_group_cd,STRING,NULLABLE,Warehouse Material Group,True,0,4277004,0.0
+prd-amea-analyt-md-svc-7c.prd_amea_dc_md.t_dim_material,handling_indicator_cd,STRING,NULLABLE,Handling Indicator,True,0,4277004,0.0
+prd-amea-analyt-md-svc-7c.prd_amea_dc_md.t_dim_material,hazardous_substances_relevant_ind,STRING,NULLABLE,Relevant for Hazardous Substances,True,0,4277004,0.0
+prd-amea-analyt-md-svc-7c.prd_amea_dc_md.t_dim_material,handling_unit_type_cd,STRING,NULLABLE,Handling Unit Type,True,0,4277004,0.0
+prd-amea-analyt-md-svc-7c.prd_amea_dc_md.t_dim_material,variable_tare_weight_cd,STRING,NULLABLE,Variable Tare Weight,True,0,4277004,0.0
+prd-amea-analyt-md-svc-7c.prd_amea_dc_md.t_dim_material,max_capacity_packaging_qt,NUMERIC,NULLABLE,Maximum Allowed Capacity of Packaging Material,True,0,4277004,0.0
+prd-amea-analyt-md-svc-7c.prd_amea_dc_md.t_dim_material,overcapacity_tolerance_handling_unit_cd,NUMERIC,NULLABLE,Overcapacity Tolerance of the Handling Unit,True,0,4277004,0.0
+prd-amea-analyt-md-svc-7c.prd_amea_dc_md.t_dim_material,max_packing_length_qt,NUMERIC,NULLABLE,Maximum Packing Length of Packaging Material,True,0,4277004,0.0
+prd-amea-analyt-md-svc-7c.prd_amea_dc_md.t_dim_material,max_packing_width_qt,NUMERIC,NULLABLE,Maximum Packing Width of Packaging Material,True,0,4277004,0.0
+prd-amea-analyt-md-svc-7c.prd_amea_dc_md.t_dim_material,max_packing_height_qt,NUMERIC,NULLABLE,Maximum Packing Height of Packaging Material,True,0,4277004,0.0
+prd-amea-analyt-md-svc-7c.prd_amea_dc_md.t_dim_material,max_dim_uom_cd,STRING,NULLABLE,Unit of Measure for Maximum Packing Length/Width/Height,True,0,4277004,0.0
+prd-amea-analyt-md-svc-7c.prd_amea_dc_md.t_dim_material,country_origin_cd,STRING,NULLABLE,Country of origin of the material,True,0,4277004,0.0
+prd-amea-analyt-md-svc-7c.prd_amea_dc_md.t_dim_material,material_freight_group_cd,STRING,NULLABLE,Material freight group,True,0,4277004,0.0
+prd-amea-analyt-md-svc-7c.prd_amea_dc_md.t_dim_material,quarantine_period_days,NUMERIC,NULLABLE,Quarantine Period,True,0,4277004,0.0
+prd-amea-analyt-md-svc-7c.prd_amea_dc_md.t_dim_material,quarantine_time_unit_cd,STRING,NULLABLE,Time Unit for Quarantine Period,True,0,4277004,0.0
+prd-amea-analyt-md-svc-7c.prd_amea_dc_md.t_dim_material,quality_inspection_group_cd,STRING,NULLABLE,Quality Inspection Group,True,0,4277004,0.0
+prd-amea-analyt-md-svc-7c.prd_amea_dc_md.t_dim_material,serial_number_profile_cd,STRING,NULLABLE,Serial Number Profile,True,0,4277004,0.0
+prd-amea-analyt-md-svc-7c.prd_amea_dc_md.t_dim_material,form_nm,STRING,NULLABLE,Form Name,True,0,4277004,0.0
+prd-amea-analyt-md-svc-7c.prd_amea_dc_md.t_dim_material,logistics_unit_measure_cd,STRING,NULLABLE,EWM CW: Logistics Unit of Measure,True,0,4277004,0.0
+prd-amea-analyt-md-svc-7c.prd_amea_dc_md.t_dim_material,catch_weight_material_ind,STRING,NULLABLE,EWM CW: Material Is a Catch Weight Material,True,0,4277004,0.0
+prd-amea-analyt-md-svc-7c.prd_amea_dc_md.t_dim_material,catch_weight_profile_enter_qty_cd,STRING,NULLABLE,EWM CW: Catch Weight Profile for Entering CW Quantity,True,0,4277004,0.0
+prd-amea-analyt-md-svc-7c.prd_amea_dc_md.t_dim_material,catch_weight_tolerance_group_cd,STRING,NULLABLE,EWM-CW: Catch Weight Tolerance Group for EWM,True,0,4277004,0.0
+prd-amea-analyt-md-svc-7c.prd_amea_dc_md.t_dim_material,adjustment_profile_cd,STRING,NULLABLE,Adjustment Profile,True,0,4277004,0.0
+prd-amea-analyt-md-svc-7c.prd_amea_dc_md.t_dim_material,ipm_product_id_cd,STRING,NULLABLE,ID for an Intellectual Property (CRM Product),True,0,4277004,0.0
+prd-amea-analyt-md-svc-7c.prd_amea_dc_md.t_dim_material,variant_price_allowed_ind,STRING,NULLABLE,Variant Price Allowed (for Material Master),True,0,4277004,0.0
+prd-amea-analyt-md-svc-7c.prd_amea_dc_md.t_dim_material,medium_cd,STRING,NULLABLE,Medium,True,0,4277004,0.0
+prd-amea-analyt-md-svc-7c.prd_amea_dc_md.t_dim_material,physical_commodity_cd,STRING,NULLABLE,Physical Commodity,True,0,4277004,0.0
+prd-amea-analyt-md-svc-7c.prd_amea_dc_md.t_dim_material,animal_origin_ind,STRING,NULLABLE,Indicator: Contains Non-Textile Parts of Animal Origin,True,0,4277004,0.0
+prd-amea-analyt-md-svc-7c.prd_amea_dc_md.t_dim_material,textile_composition_function_ind,STRING,NULLABLE,Indicator: New Textile Composition Function,True,0,4277004,0.0
+prd-amea-analyt-md-svc-7c.prd_amea_dc_md.t_dim_material,segmentation_structure_cd,STRING,NULLABLE,Segmentation Structure,True,0,4277004,0.0
+prd-amea-analyt-md-svc-7c.prd_amea_dc_md.t_dim_material,segmentation_strategy_cd,STRING,NULLABLE,Segmentation Strategy,True,0,4277004,0.0
+prd-amea-analyt-md-svc-7c.prd_amea_dc_md.t_dim_material,segmentation_status_cd,STRING,NULLABLE,Segmentation Status,True,0,4277004,0.0
+prd-amea-analyt-md-svc-7c.prd_amea_dc_md.t_dim_material,segmentation_scope_cd,STRING,NULLABLE,Scope,True,0,4277004,0.0
+prd-amea-analyt-md-svc-7c.prd_amea_dc_md.t_dim_material,segmentation_relevant_ind,STRING,NULLABLE,Segmentation Relevant,True,0,4277004,0.0
+prd-amea-analyt-md-svc-7c.prd_amea_dc_md.t_dim_material,fashion_attribute_1_cd,STRING,NULLABLE,Fashion Attribute 1,True,0,4277004,0.0
+prd-amea-analyt-md-svc-7c.prd_amea_dc_md.t_dim_material,fashion_attribute_2_cd,STRING,NULLABLE,Fashion Attribute 2,True,0,4277004,0.0
+prd-amea-analyt-md-svc-7c.prd_amea_dc_md.t_dim_material,fashion_attribute_3_cd,STRING,NULLABLE,Fashion Attribute 3,True,0,4277004,0.0
+prd-amea-analyt-md-svc-7c.prd_amea_dc_md.t_dim_material,season_usage_cd,STRING,NULLABLE,Season Usage,True,0,4277004,0.0
+prd-amea-analyt-md-svc-7c.prd_amea_dc_md.t_dim_material,season_active_im_ind,STRING,NULLABLE,Season Active in IM,True,0,4277004,0.0
+prd-amea-analyt-md-svc-7c.prd_amea_dc_md.t_dim_material,mid_cd,STRING,NULLABLE,MID,True,0,4277004,0.0
+prd-amea-analyt-md-svc-7c.prd_amea_dc_md.t_dim_material,anp_cd,STRING,NULLABLE,ANP Code,True,0,4277004,0.0
+prd-amea-analyt-md-svc-7c.prd_amea_dc_md.t_dim_material,protected_species_mgmt_cd,STRING,NULLABLE,Protected Species Management Code,True,0,4277004,0.0
+prd-amea-analyt-md-svc-7c.prd_amea_dc_md.t_dim_material,loading_units_cd,STRING,NULLABLE,Loading Units,True,0,4277004,0.0
+prd-amea-analyt-md-svc-7c.prd_amea_dc_md.t_dim_material,loading_unit_group_cd,STRING,NULLABLE,Loading Unit Group: IS Beverage,True,0,4277004,0.0
+prd-amea-analyt-md-svc-7c.prd_amea_dc_md.t_dim_material,structure_category_material_rel_cd,STRING,NULLABLE,Structure Category for Material Relationship,True,0,4277004,0.0
+prd-amea-analyt-md-svc-7c.prd_amea_dc_md.t_dim_material,tolerance_type_id_cd,STRING,NULLABLE,Tolerance Type ID,True,0,4277004,0.0
+prd-amea-analyt-md-svc-7c.prd_amea_dc_md.t_dim_material,counting_group_cd,STRING,NULLABLE,Counting Group,True,0,4277004,0.0
+prd-amea-analyt-md-svc-7c.prd_amea_dc_md.t_dim_material,dsd_grouping_cd,STRING,NULLABLE,DSD Grouping,True,0,4277004,0.0
+prd-amea-analyt-md-svc-7c.prd_amea_dc_md.t_dim_material,vso_material_tilted_ind,STRING,NULLABLE,Material may be Tilted (Vehicle Space Optimization),True,0,4277004,0.0
+prd-amea-analyt-md-svc-7c.prd_amea_dc_md.t_dim_material,stacking_not_allowed_vso,STRING,NULLABLE,Stacking not Allowed (VSO),True,0,4277004,0.0
+prd-amea-analyt-md-svc-7c.prd_amea_dc_md.t_dim_material,bottom_layer_vso,STRING,NULLABLE,Bottom Layer (Vehicle Space Optimization),True,0,4277004,0.0
+prd-amea-analyt-md-svc-7c.prd_amea_dc_md.t_dim_material,top_layer_vso,STRING,NULLABLE,Top Layer (VSO),True,0,4277004,0.0
+prd-amea-analyt-md-svc-7c.prd_amea_dc_md.t_dim_material,stacking_factor_vso,STRING,NULLABLE,Stacking Factor (Vehicle Space Optimization),True,0,4277004,0.0
+prd-amea-analyt-md-svc-7c.prd_amea_dc_md.t_dim_material,load_without_packaging_vso,STRING,NULLABLE,Load without Packaging Material (VSO),True,0,4277004,0.0
+prd-amea-analyt-md-svc-7c.prd_amea_dc_md.t_dim_material,permissible_overhang_depth_vso,NUMERIC,NULLABLE,Permissible Overhang (Depth) of Packaging Material(VSO),True,0,4277004,0.0
+prd-amea-analyt-md-svc-7c.prd_amea_dc_md.t_dim_material,permissible_overhang_width_vso,NUMERIC,NULLABLE,Permissible Overhang (Width) of Shipping Material (VSO),True,0,4277004,0.0
+prd-amea-analyt-md-svc-7c.prd_amea_dc_md.t_dim_material,max_stacking_height_packaging_vso,NUMERIC,NULLABLE,Maximum Stacking Height of the Packaging Material (VSO),True,0,4277004,0.0
+prd-amea-analyt-md-svc-7c.prd_amea_dc_md.t_dim_material,min_stacking_height_packaging_vso,NUMERIC,NULLABLE,Minimum Stacking Height of the Packaging Material (VSO),True,0,4277004,0.0
+prd-amea-analyt-md-svc-7c.prd_amea_dc_md.t_dim_material,tolerance_max_stacking_height_vso,NUMERIC,NULLABLE,Tolerance to Exceed the Max. Stacking Height (VSO),True,0,4277004,0.0
+prd-amea-analyt-md-svc-7c.prd_amea_dc_md.t_dim_material,number_materials_closed_pkm_vso,STRING,NULLABLE,Number of Materials for each Closed PKM (VSO),True,0,4277004,0.0
+prd-amea-analyt-md-svc-7c.prd_amea_dc_md.t_dim_material,unit_of_measure_vso,STRING,NULLABLE,Unit of Measure Vehicle Space Optimization,True,0,4277004,0.0
+prd-amea-analyt-md-svc-7c.prd_amea_dc_md.t_dim_material,closed_packaging_required_vso,STRING,NULLABLE,Closed Packaging Material Required (VSO),True,0,4277004,0.0
+prd-amea-analyt-md-svc-7c.prd_amea_dc_md.t_dim_material,packaging_cd,STRING,NULLABLE,Packaging Code,True,0,4277004,0.0
+prd-amea-analyt-md-svc-7c.prd_amea_dc_md.t_dim_material,dangerous_goods_status,STRING,NULLABLE,Dangerous Goods Packaging Status,True,0,4277004,0.0
+prd-amea-analyt-md-svc-7c.prd_amea_dc_md.t_dim_material,material_condition_mgmt,STRING,NULLABLE,Material Condition Management,True,0,4277004,0.0
+prd-amea-analyt-md-svc-7c.prd_amea_dc_md.t_dim_material,return_code,STRING,NULLABLE,Return Code,True,0,4277004,0.0
+prd-amea-analyt-md-svc-7c.prd_amea_dc_md.t_dim_material,return_logistics_level,STRING,NULLABLE,Return to Logistics Level,True,0,4277004,0.0
+prd-amea-analyt-md-svc-7c.prd_amea_dc_md.t_dim_material,nato_stock_number,STRING,NULLABLE,NATO Stock Number,True,0,4277004,0.0
+prd-amea-analyt-md-svc-7c.prd_amea_dc_md.t_dim_material,spare_part_class_cd,STRING,NULLABLE,Spare Part Class Code,True,0,4277004,0.0
+prd-amea-analyt-md-svc-7c.prd_amea_dc_md.t_dim_material,fff_class,STRING,NULLABLE,FFF class,True,0,4277004,0.0
+prd-amea-analyt-md-svc-7c.prd_amea_dc_md.t_dim_material,supersession_chain_no,STRING,NULLABLE,Supersession chain number,True,0,4277004,0.0
+prd-amea-analyt-md-svc-7c.prd_amea_dc_md.t_dim_material,creation_status_seasonal_procurement,STRING,NULLABLE,Creation Status - Seasonal Procurement,True,0,4277004,0.0
+prd-amea-analyt-md-svc-7c.prd_amea_dc_md.t_dim_material,internal_char_color_num,STRING,NULLABLE,Internal Charactieristic Number for Color Characteristics,True,0,4277004,0.0
+prd-amea-analyt-md-svc-7c.prd_amea_dc_md.t_dim_material,internal_char_main_size_num,STRING,NULLABLE,Internal Char. Number for Characteristics for Main Sizes,True,0,4277004,0.0
+prd-amea-analyt-md-svc-7c.prd_amea_dc_md.t_dim_material,internal_char_second_size_num,STRING,NULLABLE,Internal Char. Number for Characteristics for Second Sizes,True,0,4277004,0.0
+prd-amea-analyt-md-svc-7c.prd_amea_dc_md.t_dim_material,char_colors_variants_vl,STRING,NULLABLE,Characteristic Value for Colors of Variants,True,0,4277004,0.0
+prd-amea-analyt-md-svc-7c.prd_amea_dc_md.t_dim_material,char_main_sizes_vl,STRING,NULLABLE,Characteristic Value for Main Sizes of Variants,True,0,4277004,0.0
+prd-amea-analyt-md-svc-7c.prd_amea_dc_md.t_dim_material,char_second_size_vl,STRING,NULLABLE,Characteristic Value for Second Size for Variants,True,0,4277004,0.0
+prd-amea-analyt-md-svc-7c.prd_amea_dc_md.t_dim_material,char_evaluation_vl,STRING,NULLABLE,Characteristic Value for Evaluation Purposes,True,0,4277004,0.0
+prd-amea-analyt-md-svc-7c.prd_amea_dc_md.t_dim_material,care_cd,STRING,NULLABLE,"Care Codes (such as Washing Code, Ironing Code, etc.)",True,0,4277004,0.0
+prd-amea-analyt-md-svc-7c.prd_amea_dc_md.t_dim_material,brand,STRING,NULLABLE,Brand,True,0,4277004,0.0
+prd-amea-analyt-md-svc-7c.prd_amea_dc_md.t_dim_material,fiber_component1_cd,STRING,NULLABLE,Fiber Code for Textiles (Component 1),True,0,4277004,0.0
+prd-amea-analyt-md-svc-7c.prd_amea_dc_md.t_dim_material,share_fiber_component1_pct,STRING,NULLABLE,Percentage Share of Fiber (Component 1),True,0,4277004,0.0
+prd-amea-analyt-md-svc-7c.prd_amea_dc_md.t_dim_material,fiber_component2_cd,STRING,NULLABLE,Fiber Code for Textiles (Component 2),True,0,4277004,0.0
+prd-amea-analyt-md-svc-7c.prd_amea_dc_md.t_dim_material,share_fiber_component2_pct,STRING,NULLABLE,Percentage Share of Fiber (Component 2),True,0,4277004,0.0
+prd-amea-analyt-md-svc-7c.prd_amea_dc_md.t_dim_material,fiber_component3_cd,STRING,NULLABLE,Fiber Code for Textiles (Component 3),True,0,4277004,0.0
+prd-amea-analyt-md-svc-7c.prd_amea_dc_md.t_dim_material,share_fiber_component3_pct,STRING,NULLABLE,Percentage Share of Fiber (Component 3),True,0,4277004,0.0
+prd-amea-analyt-md-svc-7c.prd_amea_dc_md.t_dim_material,fiber_component4_cd,STRING,NULLABLE,Fiber Code for Textiles (Component 4),True,0,4277004,0.0
+prd-amea-analyt-md-svc-7c.prd_amea_dc_md.t_dim_material,share_fiber_component4_pct,STRING,NULLABLE,Percentage Share of Fiber (Component 4),True,0,4277004,0.0
+prd-amea-analyt-md-svc-7c.prd_amea_dc_md.t_dim_material,fiber_component5_cd,STRING,NULLABLE,Fiber Code for Textiles (Component 5),True,0,4277004,0.0
+prd-amea-analyt-md-svc-7c.prd_amea_dc_md.t_dim_material,share_fiber_component5_pct,STRING,NULLABLE,Percentage Share of Fiber (Component 5),True,0,4277004,0.0
+prd-amea-analyt-md-svc-7c.prd_amea_dc_md.t_dim_material,fashion_grade,STRING,NULLABLE,Fashion Grade,True,0,4277004,0.0
+prd-amea-analyt-md-svc-7c.prd_amea_dc_md.t_dim_material,kfi_general_text_field_1,STRING,NULLABLE,KFI general text field,True,0,4277004,0.0
+prd-amea-analyt-md-svc-7c.prd_amea_dc_md.t_dim_material,kfi_general_text_field_2,STRING,NULLABLE,KFI general text field,True,0,4277004,0.0
+prd-amea-analyt-md-svc-7c.prd_amea_dc_md.t_dim_material,kfi_general_text_field_3,STRING,NULLABLE,KFI general text field,True,0,4277004,0.0
+prd-amea-analyt-md-svc-7c.prd_amea_dc_md.t_dim_material,kfi_general_text_field_4,STRING,NULLABLE,KFI general text field,True,0,4277004,0.0
+prd-amea-analyt-md-svc-7c.prd_amea_dc_md.t_dim_material,kfi_general_text_field_5,STRING,NULLABLE,KFI general text field,True,0,4277004,0.0
+prd-amea-analyt-md-svc-7c.prd_amea_dc_md.t_dim_material,kfi_general_text_field_6,STRING,NULLABLE,KFI general text field,True,0,4277004,0.0
+prd-amea-analyt-md-svc-7c.prd_amea_dc_md.t_dim_material,general_numc_fld_1,STRING,NULLABLE,General NUMC fld.,True,0,4277004,0.0
+prd-amea-analyt-md-svc-7c.prd_amea_dc_md.t_dim_material,general_numc_fld_2,STRING,NULLABLE,General NUMC fld.,True,0,4277004,0.0
+prd-amea-analyt-md-svc-7c.prd_amea_dc_md.t_dim_material,general_numc_fld_3,STRING,NULLABLE,General NUMC fld.,True,0,4277004,0.0
+prd-amea-analyt-md-svc-7c.prd_amea_dc_md.t_dim_material,general_numc_fld_4,STRING,NULLABLE,General NUMC fld.,True,0,4277004,0.0
+prd-amea-analyt-md-svc-7c.prd_amea_dc_md.t_dim_material,general_qt_1,NUMERIC,NULLABLE,General quantity field,True,0,4277004,0.0
+prd-amea-analyt-md-svc-7c.prd_amea_dc_md.t_dim_material,general_qt_2,NUMERIC,NULLABLE,General quantity field,True,0,4277004,0.0
+prd-amea-analyt-md-svc-7c.prd_amea_dc_md.t_dim_material,general_qt_3,NUMERIC,NULLABLE,General quantity field,True,0,4277004,0.0
+prd-amea-analyt-md-svc-7c.prd_amea_dc_md.t_dim_material,general_unit_fld_1,STRING,NULLABLE,General unit field,True,0,4277004,0.0
+prd-amea-analyt-md-svc-7c.prd_amea_dc_md.t_dim_material,general_unit_fld_2,STRING,NULLABLE,General unit field,True,0,4277004,0.0
+prd-amea-analyt-md-svc-7c.prd_amea_dc_md.t_dim_material,general_unit_fld_3,STRING,NULLABLE,General unit field,True,0,4277004,0.0
+prd-amea-analyt-md-svc-7c.prd_amea_dc_md.t_dim_material,switch_1,STRING,NULLABLE,Switch,True,0,4277004,0.0
+prd-amea-analyt-md-svc-7c.prd_amea_dc_md.t_dim_material,switch_2,STRING,NULLABLE,Switch,True,0,4277004,0.0
+prd-amea-analyt-md-svc-7c.prd_amea_dc_md.t_dim_material,switch_3,STRING,NULLABLE,Switch,True,0,4277004,0.0
+prd-amea-analyt-md-svc-7c.prd_amea_dc_md.t_dim_material,switch_4,STRING,NULLABLE,Switch,True,0,4277004,0.0
+prd-amea-analyt-md-svc-7c.prd_amea_dc_md.t_dim_material,switch_5,STRING,NULLABLE,Switch,True,0,4277004,0.0
+prd-amea-analyt-md-svc-7c.prd_amea_dc_md.t_dim_material,general_multiple_entry_fld_1,STRING,NULLABLE,General multiple entry field,True,0,4277004,0.0
+prd-amea-analyt-md-svc-7c.prd_amea_dc_md.t_dim_material,general_multiple_entry_fld_2,STRING,NULLABLE,General multiple entry field,True,0,4277004,0.0
+prd-amea-analyt-md-svc-7c.prd_amea_dc_md.t_dim_material,general_fld_1,DATE,NULLABLE,General date field,True,0,4277004,0.0
+prd-amea-analyt-md-svc-7c.prd_amea_dc_md.t_dim_material,general_fld_2,DATE,NULLABLE,General date field,True,0,4277004,0.0
+prd-amea-analyt-md-svc-7c.prd_amea_dc_md.t_dim_material,taxcl,STRING,NULLABLE,TaxCl,True,0,4277004,0.0
+prd-amea-analyt-md-svc-7c.prd_amea_dc_md.t_dim_material,production_country_cd,STRING,NULLABLE,country of production happening,True,0,4277004,0.0
+prd-amea-analyt-md-svc-7c.prd_amea_dc_md.t_dim_material,country_sales,STRING,NULLABLE,Country of Sales,True,0,4277004,0.0
+prd-amea-analyt-md-svc-7c.prd_amea_dc_md.t_dim_material,material_cd_eu,STRING,NULLABLE,Material,True,0,4277004,0.0
+prd-amea-analyt-md-svc-7c.prd_amea_dc_md.t_dim_material,material_cd_ap,STRING,NULLABLE,Material,True,0,4277004,0.0
+prd-amea-analyt-md-svc-7c.prd_amea_dc_md.t_dim_material,material_cd_am,STRING,NULLABLE,Material,True,0,4277004,0.0
+prd-amea-analyt-md-svc-7c.prd_amea_dc_md.t_dim_material,front_face,STRING,NULLABLE,Front Face,True,0,4277004,0.0
+prd-amea-analyt-md-svc-7c.prd_amea_dc_md.t_dim_material,pack_special_categorization,STRING,NULLABLE,Pack Special Categorization,True,0,4277004,0.0
+prd-amea-analyt-md-svc-7c.prd_amea_dc_md.t_dim_material,bq_insert_timestamp,TIMESTAMP,NULLABLE,Start time of loading data to Master table,True,0,4277004,0.0
+prd-amea-analyt-md-svc-7c.prd_amea_dc_md.t_dim_material,bq_update_timestamp,TIMESTAMP,NULLABLE,End time of loading data to Master table,True,0,4277004,0.0
+prd-amea-analyt-md-svc-7c.prd_amea_dc_md.t_dim_material,bq_inserted_by,INTEGER,NULLABLE,Inserted by RCTL Run id,True,0,4277004,0.0
+prd-amea-analyt-md-svc-7c.prd_amea_dc_md.t_dim_material,bq_updated_by,INTEGER,NULLABLE,Updated by RCTL Run id,True,0,4277004,0.0
+prd-amea-analyt-md-svc-7c.prd_amea_dc_md.t_dim_material,pipeline_process_id,INTEGER,NULLABLE,RCTL Process ID for the Store Proc Call,True,0,4277004,0.0
+prd-amea-analyt-datal-svc-df.prd_amea_h_amea_gcp_mst_prod.v_cmdl_product_auom_fg_planningsku_amea,matnr,STRING,NULLABLE,,True,0,680589,0.0
+prd-amea-analyt-datal-svc-df.prd_amea_h_amea_gcp_mst_prod.v_cmdl_product_auom_fg_planningsku_amea,mtart,STRING,NULLABLE,,True,0,680589,0.0
+prd-amea-analyt-datal-svc-df.prd_amea_h_amea_gcp_mst_prod.v_cmdl_product_auom_fg_planningsku_amea,mstae,STRING,NULLABLE,,True,41,680589,0.01
+prd-amea-analyt-datal-svc-df.prd_amea_h_amea_gcp_mst_prod.v_cmdl_product_auom_fg_planningsku_amea,maktx,STRING,NULLABLE,,True,26,680589,0.0
+prd-amea-analyt-datal-svc-df.prd_amea_h_amea_gcp_mst_prod.v_cmdl_product_auom_fg_planningsku_amea,meins,STRING,NULLABLE,,True,0,680589,0.0
+prd-amea-analyt-datal-svc-df.prd_amea_h_amea_gcp_mst_prod.v_cmdl_product_auom_fg_planningsku_amea,umren,NUMERIC,NULLABLE,,True,0,680589,0.0
+prd-amea-analyt-datal-svc-df.prd_amea_h_amea_gcp_mst_prod.v_cmdl_product_auom_fg_planningsku_amea,umrez,NUMERIC,NULLABLE,,True,0,680589,0.0
+prd-amea-analyt-datal-svc-df.prd_amea_h_amea_gcp_mst_prod.v_cmdl_product_auom_fg_planningsku_amea,meinh,STRING,NULLABLE,,True,0,680589,0.0
+prd-amea-analyt-datal-svc-df.prd_amea_h_amea_gcp_mst_prod.v_cmdl_product_auom_fg_planningsku_amea,ean11,STRING,NULLABLE,,True,427113,680589,62.76
+prd-amea-analyt-datal-svc-df.prd_amea_h_amea_gcp_mst_prod.v_cmdl_product_auom_fg_planningsku_amea,laeng,NUMERIC,NULLABLE,,True,0,680589,0.0
+prd-amea-analyt-datal-svc-df.prd_amea_h_amea_gcp_mst_prod.v_cmdl_product_auom_fg_planningsku_amea,breit,NUMERIC,NULLABLE,,True,0,680589,0.0
+prd-amea-analyt-datal-svc-df.prd_amea_h_amea_gcp_mst_prod.v_cmdl_product_auom_fg_planningsku_amea,hoehe,NUMERIC,NULLABLE,,True,0,680589,0.0
+prd-amea-analyt-datal-svc-df.prd_amea_h_amea_gcp_mst_prod.v_cmdl_product_auom_fg_planningsku_amea,meabm,STRING,NULLABLE,,True,75543,680589,11.1
+prd-amea-analyt-datal-svc-df.prd_amea_h_amea_gcp_mst_prod.v_cmdl_product_auom_fg_planningsku_amea,volum,NUMERIC,NULLABLE,,True,0,680589,0.0
+prd-amea-analyt-datal-svc-df.prd_amea_h_amea_gcp_mst_prod.v_cmdl_product_auom_fg_planningsku_amea,voleh,STRING,NULLABLE,,True,131396,680589,19.31
+prd-amea-analyt-datal-svc-df.prd_amea_h_amea_gcp_mst_prod.v_cmdl_product_auom_fg_planningsku_amea,brgew,NUMERIC,NULLABLE,,True,0,680589,0.0
+prd-amea-analyt-datal-svc-df.prd_amea_h_amea_gcp_mst_prod.v_cmdl_product_auom_fg_planningsku_amea,gewei,STRING,NULLABLE,,True,47091,680589,6.92
+prd-amea-analyt-datal-svc-df.prd_amea_h_amea_gcp_mst_prod.v_cmdl_product_auom_fg_planningsku_amea,net_weight,NUMERIC,NULLABLE,,True,0,680589,0.0
+prd-amea-analyt-datal-svc-df.prd_amea_h_amea_gcp_mst_prod.v_cmdl_product_auom_fg_planningsku_amea,gcpdata_lastchange,TIMESTAMP,NULLABLE,,True,0,680589,0.0
