@@ -1,0 +1,12 @@
+agents:
+  - name: "agent-bq"
+    description: "BigQuery Agent for AMEA data"
+    instructions: ".github/copilot-instructions.md"
+
+  - name: "agent-sttm-morocco"
+    description: "BigQuery Agent for Morocco market mapping"
+    instructions: ".github/copilot-instructions-sttm-morocco.md"
+
+  - name: "agent-analyst"
+    description: "BigQuery Agent for BQ table analysis"
+    instructions: ".github/copilot-table-analyst.md"
